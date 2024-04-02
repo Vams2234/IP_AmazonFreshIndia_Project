@@ -27,3 +27,22 @@ $ git clone https://github.com/vamshi-m/cpsc8845ADC
 $ git clone https://github.com/vamshi-m/cpsc8845ADC
 
 ```
+
+```bash
+dotnet build
+```
+
+
+```bash
+
+dotnet run
+
+```
+
+
+
+```bash
+
+$ git clone https://github.com/vamshi-m/cpsc8845ADC
+
+```
