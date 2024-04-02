@@ -16,7 +16,7 @@ To get started with the IP_AmazonFreshIndia_Project, clone the repository to you
 
 ```bash
 
-$ git clone https://github.com/vamshi-m/cpsc8845ADC
+$ git clone https://github.com/Vams2234/IP_AmazonFreshIndia_Project
 
 ```
 
