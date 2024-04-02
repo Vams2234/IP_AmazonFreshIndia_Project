@@ -17,3 +17,8 @@ To get started with the IP_AmazonFreshIndia_Project, clone the repository to you
 ```bash
 git clone https://github.com/yourusername/IP_AmazonFreshIndia_Project.git
 cd IP_AmazonFreshIndia_Project
+
+
+```bash
+git clone https://github.com/yourusername/IP_AmazonFreshIndia_Project.git
+cd IP_AmazonFreshIndia_Project
