@@ -15,15 +15,15 @@ Before you begin, ensure you have the latest version of .NET Core SDK installed 
 To get started with the IP_AmazonFreshIndia_Project, clone the repository to your local machine. Open a terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/IP_AmazonFreshIndia_Project.git
-cd IP_AmazonFreshIndia_Project
+
+$ git clone https://github.com/vamshi-m/cpsc8845ADC
 
 ```
 
 
 
 ```bash
-git clone https://github.com/yourusername/IP_AmazonFreshIndia_Project.git
-cd IP_AmazonFreshIndia_Project
+
+$ git clone https://github.com/vamshi-m/cpsc8845ADC
 
 ```
