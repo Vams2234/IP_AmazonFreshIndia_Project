@@ -5,116 +5,119 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IP_AmazonFreshIndia_Project
 build_property.RootNamespace = IP_AmazonFreshIndia_Project
-build_property.ProjectDir = C:\Users\Vamshi Reddy\Downloads\IP_AmazonFreshIndia_Project (2)\IP_AmazonFreshIndia_Project\
-build_property.RazorLangVersion = 6.0
+build_property.ProjectDir = /Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Vamshi Reddy\Downloads\IP_AmazonFreshIndia_Project (2)\IP_AmazonFreshIndia_Project
+build_property.MSBuildProjectDirectory = /Users/prudvi/Desktop/IP_AmazonFreshIndia_Project
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Category/Category.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnkuY3NodG1s
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Category/Category.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Category/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvQ2F0ZWdvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/Product.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxQcm9kdWN0LmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/Product.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9Qcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/SearchResults.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxTZWFyY2hSZXN1bHRzLmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Product/SearchResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvUHJvZHVjdC9TZWFyY2hSZXN1bHRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/User/Add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxBZGQuY3NodG1s
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/User/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9BZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/User/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvVXNlci9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Warehouse/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2FyZWhvdXNlXEluZGV4LmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Warehouse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2FyZWhvdXNlL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Warehouse/Warehouse.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcV2FyZWhvdXNlXFdhcmVob3VzZS5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/Warehouse/Warehouse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvV2FyZWhvdXNlL1dhcmVob3VzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Areas/Admin/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Account/AccessDenied.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Account/AccessDenied.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9BY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Account/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Account/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Cart/Checkout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDaGVja291dC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Cart/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9DaGVja291dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Cart/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxFZGl0LmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Cart/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Cart/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Cart/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2FydC9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Category/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Category/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Category/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2F0ZWdvcnkvTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Product/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Product/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9MaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Vamshi Reddy/Downloads/IP_AmazonFreshIndia_Project (2)/IP_AmazonFreshIndia_Project/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/prudvi/Desktop/IP_AmazonFreshIndia_Project/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

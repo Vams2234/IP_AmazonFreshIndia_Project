@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace IP_AmazonFreshIndia_Project.Models
 {
-	internal class SeedWarehouses : IEntityTypeConfiguration<Warehouse>
+	internal class ConfigureWarehouses : IEntityTypeConfiguration<Warehouse>
 	{
 		public void Configure(EntityTypeBuilder<Warehouse> entity)
 		{
@@ -17,5 +17,3 @@ namespace IP_AmazonFreshIndia_Project.Models
 	}
 
 }
-
-// dotnet aspnet-codegenerator identity -dc IP_AmazonFreshIndia_ProjectContext create "admin" -email "admin@gmail.com" -pw "1234" -role "admin"

@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace IPAmazonFreshIndiaProject.Migrations
 {
     [DbContext(typeof(IP_AmazonFreshIndia_ProjectContext))]
-    [Migration("20240327233428_v1")]
-    partial class v1
+    [Migration("20240422005319_v4")]
+    partial class v4
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -245,6 +245,9 @@ namespace IPAmazonFreshIndiaProject.Migrations
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
+                        .HasColumnType("TEXT");
+
+                    b.Property<DateTime>("DOB")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Email")
