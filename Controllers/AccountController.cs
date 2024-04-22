@@ -25,6 +25,7 @@ namespace IP_AmazonFreshIndia_Project.Controllers
 
 		[HttpPost]
 		public async Task<IActionResult> Register(RegisterViewModel model)
+
 		{
 			if (ModelState.IsValid)
 			{
